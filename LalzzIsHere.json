@@ -1,13 +1,6 @@
-{ "tokens":[
-  "8013113979:AAEXRcWxQRU2yyx6IT68kNaxUv1Re9wAvfM", 
-  "8102718749:AAFkUjRPqxrUaWGDpwkcD-bzXzw6fDnzE50", 
-  "", 
-  "", 
-  "", 
-  "", 
-  "", 
-  "", 
-  "", 
-  "", 
-] 
+{
+  "tokens": [
+    "YOUR_BOT_TOKEN_1",
+    "YOUR_BOT_TOKEN_2"
+  ]
 }
